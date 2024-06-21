@@ -1,5 +1,5 @@
 - 👋 , I’m @steevelodina
-- <h1>Hi, I'm Steve! <br/><a href="https://github.com/steevelodina">Programmer</a>, <a href="https://www.linkedin.com/in/steeve-lodina-sl3/">Cybersecurity IT Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+- <h1>Hi, I'm Steve, an <br/><a href="https://github.com/steevelodina"></a>, <a href="https://www.linkedin.com/in/steeve-lodina-sl3/"> IT & Cybersecurity Enthusiast </a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 
 
